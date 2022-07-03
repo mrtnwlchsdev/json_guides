@@ -1,0 +1,26 @@
+{
+    "propiedad" : "valor",
+
+    "propiedades" : "Las propiedades de un objeto JSON debe ir entre comillas dobles",
+
+    "comillas" : "Los valores de tipo string deben ir encerrados entre comillas dobles",
+
+    "numeros" : 0,
+
+    "caracteres" : "Todo el unicode es soportado, incluidas las secuencias de escape \n Hello World",
+    
+    "booleanos" : true,
+
+    "vacios" : null,
+
+    "objetos" : {
+        "objeto" : "La mayor parte de la estructura de un JSON vendra en forma de objeto",
+
+        "arreglos" : [1,2,3,4,5],
+
+        "objetos" : {
+            "obj" : "Objeto anidado"
+        }
+    }
+
+}
